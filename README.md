@@ -1,4 +1,4 @@
-# @soukadao/gh-issue
+# gh-issue
 
 GitHub Issue管理ライブラリ
 
