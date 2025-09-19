@@ -1,5 +1,5 @@
 {
-  "name": "@soukadao/gh-issue",
+  "name": "gh-issue",
   "version": "0.0.1",
   "main": "dist/index.js",
   "type": "module",
