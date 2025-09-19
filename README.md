@@ -5,7 +5,7 @@ GitHub Issue管理ライブラリ
 ## インストール
 
 ```bash
-npm install @soukadao/gh-issue
+npm install gh-issue
 ```
 
 ## 使い方
